@@ -4,7 +4,8 @@ Welcome! This README file provides an overview of the ETL (Extract, Transform, L
 ), transform, and load data about various cities into a MySQL database, facilitating the CityFinder app's functionalities.
 
 ### Data Model
-The data model for CityFinder consists of four main tables: Cities, SchoolScores, CrimeRates, and AppreciationRates. Below is an ER diagram depicting the relationships among these tables:
+The data model for CityFinder consists of four main tables: Cities, SchoolScores, CrimeRates, and AppreciationRates. Below is an ER diagram depicting the relationships among these tables:<br>
+
 ![data-model](city_data_model.png)
 
 ### ETL Process
