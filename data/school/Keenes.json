@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1705569",
+            "nces-id": "A9102510",
+            "state-id": "20096001Z0000",
+            "name": "Orchardville Mennonite School",
+            "school-summary": "Orchardville Mennonite School, a private school located in Keenes, IL, serves grades 1-10 in the .",
+            "type": "private",
+            "level-codes": "e,m,h",
+            "level": "1,2,3,4,5,6,7,8,9,10",
+            "street": "1046 County Highway 13",
+            "city": "Keenes",
+            "state": "IL",
+            "fipscounty": 17191,
+            "zip": "62851",
+            "phone": "(618) 895-1327",
+            "fax": null,
+            "county": "Wayne County",
+            "lat": 38.409389,
+            "lon": -88.647842,
+            "district-name": null,
+            "district-id": 0,
+            "web-site": null,
+            "overview-url": "https://www.greatschools.org/illinois/keenes/5569-Orchardville-Mennonite-School/",
+            "rating": null,
+            "year": null,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Keenes&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Keenes&limit=50&state=IL&page=0",
+        "last": "/schools?city=Keenes&limit=50&state=IL&page=0"
+    }
+}

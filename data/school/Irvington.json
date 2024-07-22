@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1702441",
+            "nces-id": "172019002273",
+            "state-id": "1309501102001",
+            "name": "Irvington Elementary School",
+            "school-summary": "Irvington Elementary School, a public school located in Irvington, IL, serves grades K-8 in the Irvington Central Consolidated School District 11.It has received a GreatSchools Rating of 2 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e,m",
+            "level": "KG,1,2,3,4,5,6,7,8",
+            "street": "PO Box 130",
+            "city": "Irvington",
+            "state": "IL",
+            "fipscounty": 17189,
+            "zip": "62848",
+            "phone": "(618) 249-6761",
+            "fax": null,
+            "county": "Washington County",
+            "lat": 38.437019,
+            "lon": -89.158501,
+            "district-name": "Irvington Central Consolidated School District 11",
+            "district-id": 564,
+            "web-site": "http://irvingtongradeschool.com",
+            "overview-url": "https://www.greatschools.org/illinois/irvington/2441-Irvington-Elementary-School/",
+            "rating": "2",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Irvington&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Irvington&limit=50&state=IL&page=0",
+        "last": "/schools?city=Irvington&limit=50&state=IL&page=0"
+    }
+}

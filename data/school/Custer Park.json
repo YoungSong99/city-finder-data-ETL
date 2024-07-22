@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1703473",
+            "nces-id": "173338003455",
+            "state-id": "56099255U2002",
+            "name": "Reed-Custer Primary School",
+            "school-summary": "Reed-Custer Primary School, a public school located in Custer Park, IL, serves grades PK-1 in the Reed Custer Community Unit School District 255u.",
+            "type": "public",
+            "level-codes": "p,e",
+            "level": "PK,KG,1",
+            "street": "35445 Washington Street",
+            "city": "Custer Park",
+            "state": "IL",
+            "fipscounty": 17197,
+            "zip": "60481",
+            "phone": "(815) 458-6340",
+            "fax": null,
+            "county": "Will",
+            "lat": 41.241119,
+            "lon": -88.127968,
+            "district-name": "Reed Custer Community Unit School District 255u",
+            "district-id": 863,
+            "web-site": "https://www.rc255.net/rcps",
+            "overview-url": "https://www.greatschools.org/illinois/custer-park/3473-Reed-Custer-Primary-School/",
+            "rating": null,
+            "year": null,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Custer+Park&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Custer+Park&limit=50&state=IL&page=0",
+        "last": "/schools?city=Custer+Park&limit=50&state=IL&page=0"
+    }
+}

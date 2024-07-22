@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1712974",
+            "nces-id": "173267006377",
+            "state-id": "2800611503002",
+            "name": "Behavior Disorder Program Coop",
+            "school-summary": "Behavior Disorder Program Coop, a public school located in Tiskilwa, IL, serves grades K-12 in the Princeton Esd 115 School District.",
+            "type": "public",
+            "level-codes": "e,m,h",
+            "level": "KG,1,2,3,4,5,6,7,8,9,10,11,12",
+            "street": "400 North Galena Street",
+            "city": "Tiskilwa",
+            "state": "IL",
+            "fipscounty": 17011,
+            "zip": "61368",
+            "phone": "(815) 915-4460",
+            "fax": null,
+            "county": "Bureau County",
+            "lat": 41.295696,
+            "lon": -89.509537,
+            "district-name": "Princeton Esd 115 School District",
+            "district-id": 846,
+            "web-site": null,
+            "overview-url": "https://www.greatschools.org/illinois/cherry/12974-Behavior-Disorder-Program-Coop/",
+            "rating": null,
+            "year": null,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Tiskilwa&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Tiskilwa&limit=50&state=IL&page=0",
+        "last": "/schools?city=Tiskilwa&limit=50&state=IL&page=0"
+    }
+}

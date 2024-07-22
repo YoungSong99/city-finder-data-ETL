@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1700917",
+            "nces-id": "170960000565",
+            "state-id": "1101500102007",
+            "name": "Ashmore Elementary School",
+            "school-summary": "Ashmore Elementary School, a public school located in Ashmore, IL, serves grades K-4 in the Charleston Community Unit School District 1.It has received a GreatSchools Rating of 5 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e",
+            "level": "KG,1,2,3,4",
+            "street": "PO Box 219",
+            "city": "Ashmore",
+            "state": "IL",
+            "fipscounty": 17029,
+            "zip": "61912",
+            "phone": "(217) 349-3000",
+            "fax": null,
+            "county": "Coles County",
+            "lat": 39.531132,
+            "lon": -88.020721,
+            "district-name": "Charleston Community Unit School District 1",
+            "district-id": 330,
+            "web-site": "http://charleston.k12.il.us",
+            "overview-url": "https://www.greatschools.org/illinois/ashmore/917-Ashmore-Elementary-School/",
+            "rating": "5",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Ashmore&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Ashmore&limit=50&state=IL&page=0",
+        "last": "/schools?city=Ashmore&limit=50&state=IL&page=0"
+    }
+}

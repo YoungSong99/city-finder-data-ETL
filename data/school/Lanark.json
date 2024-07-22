@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1700060",
+            "nces-id": "170000705083",
+            "state-id": "0800830800001",
+            "name": "Eastland High School",
+            "school-summary": "Eastland High School, a public school located in Lanark, IL, serves grades 6-12 in the Eastland Community Unit School District 308.It has received a GreatSchools Rating of 7 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "m,h",
+            "level": "6,7,8,9,10,11,12",
+            "street": "500 South School Drive",
+            "city": "Lanark",
+            "state": "IL",
+            "fipscounty": 17015,
+            "zip": "61046",
+            "phone": "(815) 493-6341",
+            "fax": null,
+            "county": "Carroll County",
+            "lat": 42.097374,
+            "lon": -89.829872,
+            "district-name": "Eastland Community Unit School District 308",
+            "district-id": 7,
+            "web-site": "http://www.eastland308.com",
+            "overview-url": "https://www.greatschools.org/illinois/lanark/60-Eastland-High-School/",
+            "rating": "7",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Lanark&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Lanark&limit=50&state=IL&page=0",
+        "last": "/schools?city=Lanark&limit=50&state=IL&page=0"
+    }
+}

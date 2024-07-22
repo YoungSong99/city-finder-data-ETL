@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1707420",
+            "nces-id": "170033005767",
+            "state-id": "0901019702001",
+            "name": "Prairieview-Ogden North Elementary School",
+            "school-summary": "Prairieview-Ogden North Elementary School, a public school located in Royal, IL, serves grades PK-4 in the Prairieview-Ogden Central Consolidated School District 197.It has received a GreatSchools Rating of 6 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "p,e",
+            "level": "PK,KG,1,2,3,4",
+            "street": "PO Box 27",
+            "city": "Royal",
+            "state": "IL",
+            "fipscounty": 17019,
+            "zip": "61871",
+            "phone": "(217) 583-3300",
+            "fax": null,
+            "county": "Champaign County",
+            "lat": 40.193802,
+            "lon": -87.968323,
+            "district-name": "Prairieview-Ogden Central Consolidated School District 197",
+            "district-id": 1346,
+            "web-site": "http://www.pvo.k12.il.us",
+            "overview-url": "https://www.greatschools.org/illinois/royal/7420-Prairieview-Ogden-North-Elementary-School/",
+            "rating": "6",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Royal&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Royal&limit=50&state=IL&page=0",
+        "last": "/schools?city=Royal&limit=50&state=IL&page=0"
+    }
+}

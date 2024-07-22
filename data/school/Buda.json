@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1700265",
+            "nces-id": "170012502859",
+            "state-id": "2800634001001",
+            "name": "Bureau Valley South",
+            "school-summary": "Bureau Valley South, a public school located in Buda, IL, serves grades 3-8 in the Bureau Valley Community Unit School District 340.",
+            "type": "public",
+            "level-codes": "e,m",
+            "level": "3,4,5,6,7,8",
+            "street": "PO Box 277",
+            "city": "Buda",
+            "state": "IL",
+            "fipscounty": 17011,
+            "zip": "61314",
+            "phone": "(309) 895-2037",
+            "fax": null,
+            "county": "Bureau County",
+            "lat": 41.330284,
+            "lon": -89.682121,
+            "district-name": "Bureau Valley Community Unit School District 340",
+            "district-id": 100,
+            "web-site": null,
+            "overview-url": "https://www.greatschools.org/illinois/buda/265-Bureau-Valley-South/",
+            "rating": null,
+            "year": null,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Buda&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Buda&limit=50&state=IL&page=0",
+        "last": "/schools?city=Buda&limit=50&state=IL&page=0"
+    }
+}

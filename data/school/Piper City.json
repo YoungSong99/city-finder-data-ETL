@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1703960",
+            "nces-id": "173948000171",
+            "state-id": "17053006J2006",
+            "name": "Tri-Point Jr High/Elementary School",
+            "school-summary": "Tri-Point Jr High/Elementary School, a public school located in Piper City, IL, serves grades PK, 4-8 in the Tri Point Community Unit School District 6-J.It has received a GreatSchools Rating of 7 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "p,e,m",
+            "level": "PK,4,5,6,7,8",
+            "street": "PO Box 158",
+            "city": "Piper City",
+            "state": "IL",
+            "fipscounty": 17053,
+            "zip": "60959",
+            "phone": "(815) 686-2247",
+            "fax": null,
+            "county": "Ford County",
+            "lat": 40.753418,
+            "lon": -88.187355,
+            "district-name": "Tri Point Community Unit School District 6-J",
+            "district-id": 1006,
+            "web-site": "http://www.tripointschools.org",
+            "overview-url": "https://www.greatschools.org/illinois/piper-city/3960-Tri-Point-Jr-High-Elementary-School/",
+            "rating": "7",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Piper+City&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Piper+City&limit=50&state=IL&page=0",
+        "last": "/schools?city=Piper+City&limit=50&state=IL&page=0"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1700533",
+            "nces-id": "170474000175",
+            "state-id": "1301402102001",
+            "name": "Aviston Elementary School",
+            "school-summary": "Aviston Elementary School, a public school located in Aviston, IL, serves grades PK-8 in the Aviston School District 21.It has received a GreatSchools Rating of 7 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "p,e,m",
+            "level": "PK,KG,1,2,3,4,5,6,7,8",
+            "street": "350 South Hull Street",
+            "city": "Aviston",
+            "state": "IL",
+            "fipscounty": 17027,
+            "zip": "62216",
+            "phone": "(618) 228-7245",
+            "fax": null,
+            "county": "Clinton County",
+            "lat": 38.605209,
+            "lon": -89.614403,
+            "district-name": "Aviston School District 21",
+            "district-id": 228,
+            "web-site": "http://www.avistonk-8.org",
+            "overview-url": "https://www.greatschools.org/illinois/aviston/533-Aviston-Elementary-School/",
+            "rating": "7",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Aviston&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Aviston&limit=50&state=IL&page=0",
+        "last": "/schools?city=Aviston&limit=50&state=IL&page=0"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1700268",
+            "nces-id": "170012601482",
+            "state-id": "3505900701001",
+            "name": "Midland Middle School",
+            "school-summary": "Midland Middle School, a public school located in Sparland, IL, serves grades 5-8 in the Midland Community Unit School District 7.It has received a GreatSchools Rating of 8 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e,m",
+            "level": "5,6,7,8",
+            "street": "901 Hilltop Drive",
+            "city": "Sparland",
+            "state": "IL",
+            "fipscounty": 17123,
+            "zip": "61565",
+            "phone": "(309) 469-3131",
+            "fax": null,
+            "county": "Marshall County",
+            "lat": 41.032238,
+            "lon": -89.460846,
+            "district-name": "Midland Community Unit School District 7",
+            "district-id": 101,
+            "web-site": "http://www.midland-7.net",
+            "overview-url": "https://www.greatschools.org/illinois/sparland/268-Midland-Middle-School/",
+            "rating": "8",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Sparland&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Sparland&limit=50&state=IL&page=0",
+        "last": "/schools?city=Sparland&limit=50&state=IL&page=0"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1702714",
+            "nces-id": "172370002590",
+            "state-id": "0901014202001",
+            "name": "Ludlow Elementary School",
+            "school-summary": "Ludlow Elementary School, a public school located in Ludlow, IL, serves grades K-8 in the Ludlow Central Consolidated School District 142.It has received a GreatSchools Rating of 1 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e,m",
+            "level": "KG,1,2,3,4,5,6,7,8",
+            "street": "PO Box 130",
+            "city": "Ludlow",
+            "state": "IL",
+            "fipscounty": 17019,
+            "zip": "60949",
+            "phone": "(217) 396-5261",
+            "fax": null,
+            "county": "Champaign County",
+            "lat": 40.384739,
+            "lon": -88.126724,
+            "district-name": "Ludlow Central Consolidated School District 142",
+            "district-id": 646,
+            "web-site": "http://www.roe9.k12.il.us",
+            "overview-url": "https://www.greatschools.org/illinois/ludlow/2714-Ludlow-Elementary-School/",
+            "rating": "1",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Ludlow&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Ludlow&limit=50&state=IL&page=0",
+        "last": "/schools?city=Ludlow&limit=50&state=IL&page=0"
+    }
+}

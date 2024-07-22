@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1702175",
+            "nces-id": "171632001946",
+            "state-id": "2009601402001",
+            "name": "Geff Elementary School",
+            "school-summary": "Geff Elementary School, a public school located in Jeffersonville, IL, serves grades K-8 in the Geff Central Consolidated School District 14.It has received a GreatSchools Rating of 7 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e,m",
+            "level": "KG,1,2,3,4,5,6,7,8",
+            "street": "201 E Lafayette St",
+            "city": "Jeffersonville",
+            "state": "IL",
+            "fipscounty": 17191,
+            "zip": "62842",
+            "phone": "(618) 897-2465",
+            "fax": null,
+            "county": "Wayne County",
+            "lat": 38.441299,
+            "lon": -88.402496,
+            "district-name": "Geff Central Consolidated School District 14",
+            "district-id": 485,
+            "web-site": null,
+            "overview-url": "https://www.greatschools.org/illinois/jeffersonville/2175-Geff-Elementary-School/",
+            "rating": "7",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Jeffersonville&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Jeffersonville&limit=50&state=IL&page=0",
+        "last": "/schools?city=Jeffersonville&limit=50&state=IL&page=0"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1700611",
+            "nces-id": "170579000257",
+            "state-id": "0400410002003",
+            "name": "Caledonia Elementary School",
+            "school-summary": "Caledonia Elementary School, a public school located in Caledonia, IL, serves grades PK-5 in the Belvidere Community Unit School District 100.It has received a GreatSchools Rating of 4 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "p,e",
+            "level": "PK,KG,1,2,3,4,5",
+            "street": "2311 Randolph Street",
+            "city": "Caledonia",
+            "state": "IL",
+            "fipscounty": 17007,
+            "zip": "61011",
+            "phone": "(815) 547-1977",
+            "fax": null,
+            "county": "Boone County",
+            "lat": 42.36562,
+            "lon": -88.893921,
+            "district-name": "Belvidere Community Unit School District 100",
+            "district-id": 251,
+            "web-site": "http://www.district100.com",
+            "overview-url": "https://www.greatschools.org/illinois/caledonia/611-Caledonia-Elementary-School/",
+            "rating": "4",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Caledonia&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Caledonia&limit=50&state=IL&page=0",
+        "last": "/schools?city=Caledonia&limit=50&state=IL&page=0"
+    }
+}

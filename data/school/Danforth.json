@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1702437",
+            "nces-id": "172018004922",
+            "state-id": "3203801002003",
+            "name": "Iroquois West Elementary Sch/Danforth",
+            "school-summary": "Iroquois West Elementary Sch/Danforth, a public school located in Danforth, IL, serves grades PK-K in the Iroquois West Community Unit School District 10.",
+            "type": "public",
+            "level-codes": "p,e",
+            "level": "PK,KG",
+            "street": "PO Box 185",
+            "city": "Danforth",
+            "state": "IL",
+            "fipscounty": 17075,
+            "zip": "60930",
+            "phone": "(815) 269-2230",
+            "fax": null,
+            "county": "Iroquois County",
+            "lat": 40.823429,
+            "lon": -87.975212,
+            "district-name": "Iroquois West Community Unit School District 10",
+            "district-id": 563,
+            "web-site": "http://iwest.k12.il.us",
+            "overview-url": "https://www.greatschools.org/illinois/danforth/2437-Iroquois-West-Elementary-Sch-Danforth/",
+            "rating": null,
+            "year": null,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Danforth&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Danforth&limit=50&state=IL&page=0",
+        "last": "/schools?city=Danforth&limit=50&state=IL&page=0"
+    }
+}

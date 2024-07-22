@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1703128",
+            "nces-id": "172931003071",
+            "state-id": "1309500102001",
+            "name": "Oakdale Grade School",
+            "school-summary": "Oakdale Grade School, a public school located in Oakdale, IL, serves grades K-8 in the Oakdale Central Consolidated School District 1.It has received a GreatSchools Rating of 3 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e,m",
+            "level": "KG,1,2,3,4,5,6,7,8",
+            "street": "280 East Main Street",
+            "city": "Oakdale",
+            "state": "IL",
+            "fipscounty": 17189,
+            "zip": "62268",
+            "phone": "(618) 329-5292",
+            "fax": null,
+            "county": "Washington County",
+            "lat": 38.260777,
+            "lon": -89.500389,
+            "district-name": "Oakdale Central Consolidated School District 1",
+            "district-id": 770,
+            "web-site": "http://www.oakdalegs.org",
+            "overview-url": "https://www.greatschools.org/illinois/oakdale/3128-Oakdale-Grade-School/",
+            "rating": "3",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Oakdale&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Oakdale&limit=50&state=IL&page=0",
+        "last": "/schools?city=Oakdale&limit=50&state=IL&page=0"
+    }
+}

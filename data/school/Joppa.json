@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1700075",
+            "nces-id": "170001505226",
+            "state-id": "2106103800001",
+            "name": "Joppa Jr & Sr High School",
+            "school-summary": "Joppa Jr & Sr High School, a public school located in Joppa, IL, serves grades 7-12 in the Joppa-Maple Grove Ud 38  School District.It has received a GreatSchools Rating of 4 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "m,h",
+            "level": "7,8,9,10,11,12",
+            "street": "PO Box 10",
+            "city": "Joppa",
+            "state": "IL",
+            "fipscounty": 17127,
+            "zip": "62953",
+            "phone": "(618) 543-7589",
+            "fax": null,
+            "county": "Massac County",
+            "lat": 37.212933,
+            "lon": -88.84523,
+            "district-name": "Joppa-Maple Grove Ud 38  School District",
+            "district-id": 13,
+            "web-site": "http://www.joppa38.com",
+            "overview-url": "https://www.greatschools.org/illinois/joppa/75-Joppa-Jr--Sr-High-School/",
+            "rating": "4",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Joppa&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Joppa&limit=50&state=IL&page=0",
+        "last": "/schools?city=Joppa&limit=50&state=IL&page=0"
+    }
+}

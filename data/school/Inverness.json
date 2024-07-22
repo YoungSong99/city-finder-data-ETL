@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1707086",
+            "nces-id": "A0501556",
+            "state-id": "05016494X0000",
+            "name": "Holy Family Catholic Academy",
+            "school-summary": "Holy Family Catholic Academy, a private school located in Inverness, IL, serves grades PK-8 in the .",
+            "type": "private",
+            "level-codes": "p,e,m",
+            "level": "PK,TK,KG,1,2,3,4,5,6,7,8",
+            "street": "2515 Palatine Road",
+            "city": "Inverness",
+            "state": "IL",
+            "fipscounty": 17031,
+            "zip": "60067",
+            "phone": "(847) 907-3452",
+            "fax": null,
+            "county": "Cook County",
+            "lat": 42.108471,
+            "lon": -88.105637,
+            "district-name": null,
+            "district-id": 0,
+            "web-site": "www.holyfamilycatholicacademy.net",
+            "overview-url": "https://www.greatschools.org/illinois/inverness/7086-Holy-Family-Catholic-Academy/",
+            "rating": null,
+            "year": null,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Inverness&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Inverness&limit=50&state=IL&page=0",
+        "last": "/schools?city=Inverness&limit=50&state=IL&page=0"
+    }
+}

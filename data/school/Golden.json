@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1700782",
+            "nces-id": "170822005403",
+            "state-id": "0100100302008",
+            "name": "Central 3-4 Middle School",
+            "school-summary": "Central 3-4 Middle School, a public school located in Golden, IL, serves grades 3-4 in the Central Community Unit School District 3.It has received a GreatSchools Rating of 3 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e",
+            "level": "3,4",
+            "street": "PO Box 219",
+            "city": "Golden",
+            "state": "IL",
+            "fipscounty": 17001,
+            "zip": "62339",
+            "phone": "(217) 696-4652",
+            "fax": null,
+            "county": "Adams County",
+            "lat": 40.108646,
+            "lon": -91.023277,
+            "district-name": "Central Community Unit School District 3",
+            "district-id": 300,
+            "web-site": "http://www.cusd3.com",
+            "overview-url": "https://www.greatschools.org/illinois/golden/782-Central-3-4-Middle-School/",
+            "rating": "3",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Golden&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Golden&limit=50&state=IL&page=0",
+        "last": "/schools?city=Golden&limit=50&state=IL&page=0"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1703079",
+            "nces-id": "172862005556",
+            "state-id": "1706400502014",
+            "name": "Towanda Elementary School",
+            "school-summary": "Towanda Elementary School, a public school located in Towanda, IL, serves grades K-5 in the Mclean County Community Unit School District 5.It has received a GreatSchools Rating of 9 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e",
+            "level": "KG,1,2,3,4,5",
+            "street": "PO Box 260",
+            "city": "Towanda",
+            "state": "IL",
+            "fipscounty": 17113,
+            "zip": "61776",
+            "phone": "(309) 728-2278",
+            "fax": null,
+            "county": "McLean County",
+            "lat": 40.562302,
+            "lon": -88.8955,
+            "district-name": "Mclean County Community Unit School District 5",
+            "district-id": 754,
+            "web-site": "http://www.unit5.org",
+            "overview-url": "https://www.greatschools.org/illinois/towanda/3079-Towanda-Elementary-School/",
+            "rating": "9",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Towanda&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Towanda&limit=50&state=IL&page=0",
+        "last": "/schools?city=Towanda&limit=50&state=IL&page=0"
+    }
+}

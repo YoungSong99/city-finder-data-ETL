@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1700555",
+            "nces-id": "170505002987",
+            "state-id": "3404922002009",
+            "name": "Barbara B Rose Elementary School",
+            "school-summary": "Barbara B Rose Elementary School, a public school located in South Barrington, IL, serves grades K-5 in the Barrington Community Unit School District 220.It has received a GreatSchools Rating of 8 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e",
+            "level": "KG,1,2,3,4,5",
+            "street": "61 West Penny Road",
+            "city": "South Barrington",
+            "state": "IL",
+            "fipscounty": 17031,
+            "zip": "60010",
+            "phone": "(847) 844-1200",
+            "fax": null,
+            "county": "Cook County",
+            "lat": 42.094753,
+            "lon": -88.177994,
+            "district-name": "Barrington Community Unit School District 220",
+            "district-id": 234,
+            "web-site": "http://www.barrington220.org",
+            "overview-url": "https://www.greatschools.org/illinois/south-barrington/555-Barbara-B-Rose-Elementary-School/",
+            "rating": "8",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=South+Barrington&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=South+Barrington&limit=50&state=IL&page=0",
+        "last": "/schools?city=South+Barrington&limit=50&state=IL&page=0"
+    }
+}

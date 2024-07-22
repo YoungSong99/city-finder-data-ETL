@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1706790",
+            "nces-id": "170031004976",
+            "state-id": "0800831401001",
+            "name": "West Carroll Middle School",
+            "school-summary": "West Carroll Middle School, a public school located in Mount Carroll, IL, serves grades 6-8 in the West Carroll Community Unit School District 314.It has received a GreatSchools Rating of 5 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "m",
+            "level": "6,7,8",
+            "street": "633 South East Street",
+            "city": "Mount Carroll",
+            "state": "IL",
+            "fipscounty": 17015,
+            "zip": "61053",
+            "phone": "(815) 244-2002",
+            "fax": null,
+            "county": "Carroll County",
+            "lat": 42.092983,
+            "lon": -89.967682,
+            "district-name": "West Carroll Community Unit School District 314",
+            "district-id": 1208,
+            "web-site": "http://www.wc314.org",
+            "overview-url": "https://www.greatschools.org/illinois/mount-carroll/6790-West-Carroll-Middle-School/",
+            "rating": "5",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Mount+Carroll&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Mount+Carroll&limit=50&state=IL&page=0",
+        "last": "/schools?city=Mount+Carroll&limit=50&state=IL&page=0"
+    }
+}

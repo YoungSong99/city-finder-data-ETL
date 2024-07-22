@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1703411",
+            "nces-id": "173249003379",
+            "state-id": "4507913402001",
+            "name": "Prairie Du Rocher Elementary School",
+            "school-summary": "Prairie Du Rocher Elementary School, a public school located in Prairie du Rocher, IL, serves grades PK-8 in the Prairie Du Rocher Central Consolidated School District 134.It has received a GreatSchools Rating of 6 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "p,e,m",
+            "level": "PK,KG,1,2,3,4,5,6,7,8",
+            "street": "714 Middle Street",
+            "city": "Prairie du Rocher",
+            "state": "IL",
+            "fipscounty": 17157,
+            "zip": "62277",
+            "phone": "(618) 284-3530",
+            "fax": null,
+            "county": "Randolph County",
+            "lat": 38.079868,
+            "lon": -90.09446,
+            "district-name": "Prairie Du Rocher Central Consolidated School District 134",
+            "district-id": 841,
+            "web-site": "http://pdr134.com",
+            "overview-url": "https://www.greatschools.org/illinois/prairie-du-rocher/3411-Prairie-Du-Rocher-Elementary-School/",
+            "rating": "6",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Prairie+Du+Rocher&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Prairie+Du+Rocher&limit=50&state=IL&page=0",
+        "last": "/schools?city=Prairie+Du+Rocher&limit=50&state=IL&page=0"
+    }
+}

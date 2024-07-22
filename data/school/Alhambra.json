@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1702362",
+            "nces-id": "171899002176",
+            "state-id": "4105700502004",
+            "name": "Alhambra Primary School",
+            "school-summary": "Alhambra Primary School, a public school located in Alhambra, IL, serves grades PK-3 in the Highland Community Unit School District 5.It has received a GreatSchools Rating of 3 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "p,e",
+            "level": "PK,KG,1,2,3",
+            "street": "302 West Main Street",
+            "city": "Alhambra",
+            "state": "IL",
+            "fipscounty": 17119,
+            "zip": "62001",
+            "phone": "(618) 488-2200",
+            "fax": null,
+            "county": "Madison County",
+            "lat": 38.887794,
+            "lon": -89.736618,
+            "district-name": "Highland Community Unit School District 5",
+            "district-id": 539,
+            "web-site": "http://www.highlandcusd5.org/ae",
+            "overview-url": "https://www.greatschools.org/illinois/alhambra/2362-Alhambra-Primary-School/",
+            "rating": "3",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Alhambra&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Alhambra&limit=50&state=IL&page=0",
+        "last": "/schools?city=Alhambra&limit=50&state=IL&page=0"
+    }
+}

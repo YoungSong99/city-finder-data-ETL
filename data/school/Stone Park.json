@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1709758",
+            "nces-id": "170576005264",
+            "state-id": "0601608802009",
+            "name": "Grant Primary",
+            "school-summary": "Grant Primary, a public school located in Stone Park, IL, serves grades K in the Bellwood School District 88.",
+            "type": "public",
+            "level-codes": "e",
+            "level": "KG",
+            "street": "1801 36th Avenue",
+            "city": "Stone Park",
+            "state": "IL",
+            "fipscounty": 17031,
+            "zip": "60165",
+            "phone": "(708) 345-3625",
+            "fax": null,
+            "county": "Cook County",
+            "lat": 41.905773,
+            "lon": -87.877373,
+            "district-name": "Bellwood School District 88",
+            "district-id": 250,
+            "web-site": "http://www.sd88.org",
+            "overview-url": "https://www.greatschools.org/illinois/stone-park/9758-Grant-Primary/",
+            "rating": null,
+            "year": null,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Stone+Park&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Stone+Park&limit=50&state=IL&page=0",
+        "last": "/schools?city=Stone+Park&limit=50&state=IL&page=0"
+    }
+}

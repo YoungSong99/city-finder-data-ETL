@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1704204",
+            "nces-id": "174224004249",
+            "state-id": "4003100302002",
+            "name": "Roodhouse Elementary School",
+            "school-summary": "Roodhouse Elementary School, a public school located in Roodhouse, IL, serves grades PK-6 in the North Greene Community Unit School District 3.It has received a GreatSchools Rating of 5 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "p,e",
+            "level": "PK,KG,1,2,3,4,5,6",
+            "street": "403 West North Street",
+            "city": "Roodhouse",
+            "state": "IL",
+            "fipscounty": 17061,
+            "zip": "62082",
+            "phone": "(217) 589-4623",
+            "fax": null,
+            "county": "Greene County",
+            "lat": 39.486702,
+            "lon": -90.375732,
+            "district-name": "North Greene Community Unit School District 3",
+            "district-id": 1066,
+            "web-site": "http://www.northgreene.com",
+            "overview-url": "https://www.greatschools.org/illinois/roodhouse/4204-Roodhouse-Elementary-School/",
+            "rating": "5",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Roodhouse&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Roodhouse&limit=50&state=IL&page=0",
+        "last": "/schools?city=Roodhouse&limit=50&state=IL&page=0"
+    }
+}

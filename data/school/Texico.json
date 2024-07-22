@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1702076",
+            "nces-id": "171509001833",
+            "state-id": "1304100302001",
+            "name": "Field Elementary School",
+            "school-summary": "Field Elementary School, a public school located in Texico, IL, serves grades PK-8 in the Field Central Consolidated School District 3.It has received a GreatSchools Rating of 2 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "p,e,m",
+            "level": "PK,KG,1,2,3,4,5,6,7,8",
+            "street": "21075 North Hails Lane",
+            "city": "Texico",
+            "state": "IL",
+            "fipscounty": 17081,
+            "zip": "62889",
+            "phone": "(618) 755-4611",
+            "fax": null,
+            "county": "Jefferson County",
+            "lat": 38.433262,
+            "lon": -88.867516,
+            "district-name": "Field Central Consolidated School District 3",
+            "district-id": 458,
+            "web-site": "http://www.fieldpanthers.com",
+            "overview-url": "https://www.greatschools.org/illinois/texico/2076-Field-Elementary-School/",
+            "rating": "2",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Texico&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Texico&limit=50&state=IL&page=0",
+        "last": "/schools?city=Texico&limit=50&state=IL&page=0"
+    }
+}

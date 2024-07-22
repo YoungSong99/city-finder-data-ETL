@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1701645",
+            "nces-id": "171122001341",
+            "state-id": "4707116102001",
+            "name": "Creston Elementary School",
+            "school-summary": "Creston Elementary School, a public school located in Creston, IL, serves grades K-8 in the Creston Central Consolidated School District 161.It has received a GreatSchools Rating of 7 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e,m",
+            "level": "KG,1,2,3,4,5,6,7,8",
+            "street": "PO Box 37",
+            "city": "Creston",
+            "state": "IL",
+            "fipscounty": 17141,
+            "zip": "60113",
+            "phone": "(815) 384-3920",
+            "fax": null,
+            "county": "Ogle County",
+            "lat": 41.928555,
+            "lon": -88.966705,
+            "district-name": "Creston Central Consolidated School District 161",
+            "district-id": 369,
+            "web-site": "http://crestonschool.org",
+            "overview-url": "https://www.greatschools.org/illinois/creston/1645-Creston-Elementary-School/",
+            "rating": "7",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Creston&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Creston&limit=50&state=IL&page=0",
+        "last": "/schools?city=Creston&limit=50&state=IL&page=0"
+    }
+}

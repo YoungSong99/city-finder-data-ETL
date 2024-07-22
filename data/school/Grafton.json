@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1702474",
+            "nces-id": "172043002308",
+            "state-id": "4004210002006",
+            "name": "Grafton Elementary School",
+            "school-summary": "Grafton Elementary School, a public school located in Grafton, IL, serves grades PK-4 in the Jersey Community Unit School District 100.It has received a GreatSchools Rating of 3 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "p,e",
+            "level": "PK,KG,1,2,3,4",
+            "street": "1200 Grafton Hills Drive",
+            "city": "Grafton",
+            "state": "IL",
+            "fipscounty": 17083,
+            "zip": "62037",
+            "phone": "(618) 786-3388",
+            "fax": null,
+            "county": "Jersey County",
+            "lat": 38.986675,
+            "lon": -90.420692,
+            "district-name": "Jersey Community Unit School District 100",
+            "district-id": 571,
+            "web-site": "http://www.jersey100.org",
+            "overview-url": "https://www.greatschools.org/illinois/grafton/2474-Grafton-Elementary-School/",
+            "rating": "3",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Grafton&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Grafton&limit=50&state=IL&page=0",
+        "last": "/schools?city=Grafton&limit=50&state=IL&page=0"
+    }
+}

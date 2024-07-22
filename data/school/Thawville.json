@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1702436",
+            "nces-id": "172018000102",
+            "state-id": "3203801002004",
+            "name": "Iroquois West Elementary Sch/Thawville",
+            "school-summary": "Iroquois West Elementary Sch/Thawville, a public school located in Thawville, IL, serves grades 4-5 in the Iroquois West Community Unit School District 10.It has received a GreatSchools Rating of 4 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e",
+            "level": "4,5",
+            "street": "PO Box 99",
+            "city": "Thawville",
+            "state": "IL",
+            "fipscounty": 17075,
+            "zip": "60968",
+            "phone": "(217) 387-2291",
+            "fax": null,
+            "county": "Iroquois County",
+            "lat": 40.677246,
+            "lon": -88.11467,
+            "district-name": "Iroquois West Community Unit School District 10",
+            "district-id": 563,
+            "web-site": "http://iwest.k12.il.us",
+            "overview-url": "https://www.greatschools.org/illinois/thawville/2436-Iroquois-West-Elementary-Sch-Thawville/",
+            "rating": "4",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Thawville&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Thawville&limit=50&state=IL&page=0",
+        "last": "/schools?city=Thawville&limit=50&state=IL&page=0"
+    }
+}

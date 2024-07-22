@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1702454",
+            "nces-id": "172028002286",
+            "state-id": "0106911702009",
+            "name": "Murrayville-Woodson Elementary School",
+            "school-summary": "Murrayville-Woodson Elementary School, a public school located in Murrayville, IL, serves grades K-5 in the Jacksonville School District 117.It has received a GreatSchools Rating of 4 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e",
+            "level": "KG,1,2,3,4,5",
+            "street": "PO Box 170",
+            "city": "Murrayville",
+            "state": "IL",
+            "fipscounty": 17137,
+            "zip": "62668",
+            "phone": "(217) 882-3121",
+            "fax": null,
+            "county": "Morgan County",
+            "lat": 39.584736,
+            "lon": -90.247856,
+            "district-name": "Jacksonville School District 117",
+            "district-id": 567,
+            "web-site": "http://www.jsd117.org",
+            "overview-url": "https://www.greatschools.org/illinois/murrayville/2454-Murrayville-Woodson-Elementary-School/",
+            "rating": "4",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Murrayville&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Murrayville&limit=50&state=IL&page=0",
+        "last": "/schools?city=Murrayville&limit=50&state=IL&page=0"
+    }
+}

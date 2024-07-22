@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1704618",
+            "nces-id": "00345329",
+            "state-id": "13095005X0000",
+            "name": "St Michael School",
+            "school-summary": "St Michael School, a private school located in Radom, IL, serves grades PK-8 in the .",
+            "type": "private",
+            "level-codes": "p,e,m",
+            "level": "PK,KG,1,2,3,4,5,6,7,8",
+            "street": "Po Box 130",
+            "city": "Radom",
+            "state": "IL",
+            "fipscounty": 17189,
+            "zip": "62876",
+            "phone": "(618) 485-6461",
+            "fax": "(618) 485-2272",
+            "county": "Washington",
+            "lat": 38.278263,
+            "lon": -89.197975,
+            "district-name": null,
+            "district-id": 0,
+            "web-site": "http://www.smsradom.com",
+            "overview-url": "https://www.greatschools.org/illinois/radom/4618-St-Michael-School/",
+            "rating": null,
+            "year": null,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Radom&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Radom&limit=50&state=IL&page=0",
+        "last": "/schools?city=Radom&limit=50&state=IL&page=0"
+    }
+}

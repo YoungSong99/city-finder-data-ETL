@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1701622",
+            "nces-id": "171080001317",
+            "state-id": "5409207600001",
+            "name": "Oakwood High School",
+            "school-summary": "Oakwood High School, a public school located in Fithian, IL, serves grades 9-12 in the Oakwood Community Unit School District 76.It has received a GreatSchools Rating of 5 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "h",
+            "level": "9,10,11,12",
+            "street": "5870 U.S. 150",
+            "city": "Fithian",
+            "state": "IL",
+            "fipscounty": 17183,
+            "zip": "61844",
+            "phone": "(217) 354-2358",
+            "fax": null,
+            "county": "Vermilion County",
+            "lat": 40.113026,
+            "lon": -87.828072,
+            "district-name": "Oakwood Community Unit School District 76",
+            "district-id": 357,
+            "web-site": "http://www.oakwood76.org",
+            "overview-url": "https://www.greatschools.org/illinois/fithian/1622-Oakwood-High-School/",
+            "rating": "5",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Fithian&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Fithian&limit=50&state=IL&page=0",
+        "last": "/schools?city=Fithian&limit=50&state=IL&page=0"
+    }
+}

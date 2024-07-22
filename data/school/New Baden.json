@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1703956",
+            "nces-id": "173942004858",
+            "state-id": "1301400302005",
+            "name": "New Baden Elementary School",
+            "school-summary": "New Baden Elementary School, a public school located in New Baden, IL, serves grades K-3 in the Wesclin Community Unit School District 3.It has received a GreatSchools Rating of 6 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e",
+            "level": "KG,1,2,3",
+            "street": "700 Marilyn Drive",
+            "city": "New Baden",
+            "state": "IL",
+            "fipscounty": 17027,
+            "zip": "62265",
+            "phone": "(618) 588-3535",
+            "fax": null,
+            "county": "Clinton County",
+            "lat": 38.539639,
+            "lon": -89.693336,
+            "district-name": "Wesclin Community Unit School District 3",
+            "district-id": 1003,
+            "web-site": "http://www.wesclin.org",
+            "overview-url": "https://www.greatschools.org/illinois/new-baden/3956-New-Baden-Elementary-School/",
+            "rating": "6",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=New+Baden&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=New+Baden&limit=50&state=IL&page=0",
+        "last": "/schools?city=New+Baden&limit=50&state=IL&page=0"
+    }
+}

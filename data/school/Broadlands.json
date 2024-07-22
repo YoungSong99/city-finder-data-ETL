@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1700206",
+            "nces-id": "170010605361",
+            "state-id": "0901000800001",
+            "name": "Heritage High School",
+            "school-summary": "Heritage High School, a public school located in Broadlands, IL, serves grades 9-12 in the Heritage Community Unit School District 8.It has received a GreatSchools Rating of 7 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "h",
+            "level": "9,10,11,12",
+            "street": "PO Box 260",
+            "city": "Broadlands",
+            "state": "IL",
+            "fipscounty": 17019,
+            "zip": "61816",
+            "phone": "(217) 834-3393",
+            "fax": null,
+            "county": "Champaign County",
+            "lat": 39.907059,
+            "lon": -87.993462,
+            "district-name": "Heritage Community Unit School District 8",
+            "district-id": 85,
+            "web-site": "http://www.heritage8.org",
+            "overview-url": "https://www.greatschools.org/illinois/broadlands/206-Heritage-High-School/",
+            "rating": "7",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Broadlands&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Broadlands&limit=50&state=IL&page=0",
+        "last": "/schools?city=Broadlands&limit=50&state=IL&page=0"
+    }
+}

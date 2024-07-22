@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1702081",
+            "nces-id": "171510004856",
+            "state-id": "5310200602002",
+            "name": "Fieldcrest Intermediate School",
+            "school-summary": "Fieldcrest Intermediate School, a public school located in Toluca, IL, serves grades 3-5 in the Fieldcrest Community Unit School District 6.It has received a GreatSchools Rating of 5 out of 10, based on a variety of school quality measures.",
+            "type": "public",
+            "level-codes": "e",
+            "level": "3,4,5",
+            "street": "306 North Maple Street",
+            "city": "Toluca",
+            "state": "IL",
+            "fipscounty": 17123,
+            "zip": "61369",
+            "phone": "(815) 452-2318",
+            "fax": null,
+            "county": "Marshall County",
+            "lat": 41.004433,
+            "lon": -89.126678,
+            "district-name": "Fieldcrest Community Unit School District 6",
+            "district-id": 459,
+            "web-site": "http://www.unit6.org",
+            "overview-url": "https://www.greatschools.org/illinois/toluca/2081-Fieldcrest-Elementary---West/",
+            "rating": "5",
+            "year": 2023,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Toluca&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Toluca&limit=50&state=IL&page=0",
+        "last": "/schools?city=Toluca&limit=50&state=IL&page=0"
+    }
+}

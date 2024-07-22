@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1702375",
+            "nces-id": "171920002203",
+            "state-id": "0306800302006",
+            "name": "Coffeen Elementary School",
+            "school-summary": "Coffeen Elementary School, a public school located in Coffeen, IL, serves grades PK-5 in the Hillsboro Community Unit School District 3.",
+            "type": "public",
+            "level-codes": "p,e",
+            "level": "PK,KG,1,2,3,4,5",
+            "street": "200 School Street",
+            "city": "Coffeen",
+            "state": "IL",
+            "fipscounty": 17135,
+            "zip": "62017",
+            "phone": "(217) 534-2314",
+            "fax": null,
+            "county": "Montgomery County",
+            "lat": 39.093018,
+            "lon": -89.384438,
+            "district-name": "Hillsboro Community Unit School District 3",
+            "district-id": 542,
+            "web-site": "http://www.hillsboroschools.net",
+            "overview-url": "https://www.greatschools.org/illinois/coffeen/2375-Coffeen-Elementary-School/",
+            "rating": null,
+            "year": null,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=Coffeen&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Coffeen&limit=50&state=IL&page=0",
+        "last": "/schools?city=Coffeen&limit=50&state=IL&page=0"
+    }
+}

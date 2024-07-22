@@ -1,0 +1,14 @@
+{
+    "schools": [],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 0,
+    "links": {
+        "self": "/schools?city=Sunnyland&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=Sunnyland&limit=50&state=IL&page=0",
+        "last": "/schools?city=Sunnyland&limit=50&state=IL&page=0"
+    }
+}

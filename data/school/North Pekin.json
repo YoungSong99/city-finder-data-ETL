@@ -1,0 +1,42 @@
+{
+    "schools": [
+        {
+            "universal-id": "1703095",
+            "nces-id": "172892003036",
+            "state-id": "5309010202001",
+            "name": "Rogers Elementary School",
+            "school-summary": "Rogers Elementary School, a public school located in North Pekin, IL, serves grades 3-5 in the N Pekin & Marquette Hght School District 102.",
+            "type": "public",
+            "level-codes": "e",
+            "level": "3,4,5",
+            "street": "109 Rogers Road",
+            "city": "North Pekin",
+            "state": "IL",
+            "fipscounty": 17179,
+            "zip": "61554",
+            "phone": "(309) 382-3401",
+            "fax": null,
+            "county": "Tazewell County",
+            "lat": 40.620445,
+            "lon": -89.617691,
+            "district-name": "N Pekin & Marquette Hght School District 102",
+            "district-id": 759,
+            "web-site": "http://www.dist102.org",
+            "overview-url": "https://www.greatschools.org/illinois/north-pekin/3095-Rogers-Elementary-School/",
+            "rating": null,
+            "year": null,
+            "rating-description": "The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process."
+        }
+    ],
+    "cur_page": 0,
+    "items_per_page": 50,
+    "max_page_num": 0,
+    "total_count": 1,
+    "links": {
+        "self": "/schools?city=North+Pekin&limit=50&state=IL&page=0",
+        "prev": "",
+        "next": "",
+        "first": "/schools?city=North+Pekin&limit=50&state=IL&page=0",
+        "last": "/schools?city=North+Pekin&limit=50&state=IL&page=0"
+    }
+}
