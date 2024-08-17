@@ -437,14 +437,14 @@
   <notepads>
   </notepads>
   <connection>
-    <name>CitiFinderPostgres</name>
-    <server>localhost</server>
+    <name>cityfinder-production</name>
+    <server>dpg-cqt6ik0gph6c73atg0c0-a.oregon-postgres.render.com</server>
     <type>POSTGRESQL</type>
     <access>Native</access>
-    <database>CityFinder</database>
+    <database>cityfinder</database>
     <port>5432</port>
-    <username>young</username>
-    <password>Encrypted </password>
+    <username>cityfinder</username>
+    <password>Encrypted 653443786a4278426743624947325956d8fee5b83ce89db3840cab678b99aed8</password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
@@ -487,69 +487,6 @@
       </attribute>
     </attributes>
   </connection>
-  <connection>
-    <name>cityfinder</name>
-    <server>localhost</server>
-    <type>MYSQL</type>
-    <access>Native</access>
-    <database>CityFinder</database>
-    <port>3306</port>
-    <username>root</username>
-    <password>Encrypted 2be98afc86aa7f2e4ac10aa74cb96fe88</password>
-    <servername/>
-    <data_tablespace/>
-    <index_tablespace/>
-    <attributes>
-      <attribute>
-        <code>EXTRA_OPTION_MYSQL.defaultFetchSize</code>
-        <attribute>500</attribute>
-      </attribute>
-      <attribute>
-        <code>EXTRA_OPTION_MYSQL.useCursorFetch</code>
-        <attribute>true</attribute>
-      </attribute>
-      <attribute>
-        <code>FORCE_IDENTIFIERS_TO_LOWERCASE</code>
-        <attribute>N</attribute>
-      </attribute>
-      <attribute>
-        <code>FORCE_IDENTIFIERS_TO_UPPERCASE</code>
-        <attribute>N</attribute>
-      </attribute>
-      <attribute>
-        <code>IS_CLUSTERED</code>
-        <attribute>N</attribute>
-      </attribute>
-      <attribute>
-        <code>PORT_NUMBER</code>
-        <attribute>3306</attribute>
-      </attribute>
-      <attribute>
-        <code>PRESERVE_RESERVED_WORD_CASE</code>
-        <attribute>Y</attribute>
-      </attribute>
-      <attribute>
-        <code>QUOTE_ALL_FIELDS</code>
-        <attribute>N</attribute>
-      </attribute>
-      <attribute>
-        <code>STREAM_RESULTS</code>
-        <attribute>Y</attribute>
-      </attribute>
-      <attribute>
-        <code>SUPPORTS_BOOLEAN_DATA_TYPE</code>
-        <attribute>Y</attribute>
-      </attribute>
-      <attribute>
-        <code>SUPPORTS_TIMESTAMP_DATA_TYPE</code>
-        <attribute>Y</attribute>
-      </attribute>
-      <attribute>
-        <code>USE_POOLING</code>
-        <attribute>N</attribute>
-      </attribute>
-    </attributes>
-  </connection>
   <order>
     <hop>
       <from>Get system info</from>
@@ -569,6 +506,11 @@
     <hop>
       <from>Select values</from>
       <to>Add sequence</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Input from excel</from>
+      <to>Select values</to>
       <enabled>Y</enabled>
     </hop>
   </order>
@@ -812,7 +754,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <connection>CitiFinderPostgres</connection>
+    <connection>cityfinder-production</connection>
     <schema>public</schema>
     <table>school_grades</table>
     <commit>1000</commit>

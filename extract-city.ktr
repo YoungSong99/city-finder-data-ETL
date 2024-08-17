@@ -430,32 +430,24 @@
     <created_date>2024/07/22 01:53:18.888</created_date>
     <modified_user>-</modified_user>
     <modified_date>2024/07/22 01:53:18.888</modified_date>
-    <key_for_session_key/>
+    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA=</key_for_session_key>
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
   </notepads>
   <connection>
     <name>cityfinder</name>
-    <server>localhost</server>
-    <type>MYSQL</type>
+    <server>dpg-cqt6ik0gph6c73atg0c0-a.oregon-postgres.render.com</server>
+    <type>POSTGRESQL</type>
     <access>Native</access>
-    <database>CityFinder</database>
-    <port>3306</port>
-    <username>root</username>
-    <password>Encrypted 2be98afc86aa7f2e4ac10aa74cb96fe88</password>
+    <database>cityfinder</database>
+    <port>5432</port>
+    <username>cityfinder</username>
+    <password>Encrypted 653443786a4278426743624947325956d8fee5b83ce89db3840cab678b99aed8</password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
     <attributes>
-      <attribute>
-        <code>EXTRA_OPTION_MYSQL.defaultFetchSize</code>
-        <attribute>500</attribute>
-      </attribute>
-      <attribute>
-        <code>EXTRA_OPTION_MYSQL.useCursorFetch</code>
-        <attribute>true</attribute>
-      </attribute>
       <attribute>
         <code>FORCE_IDENTIFIERS_TO_LOWERCASE</code>
         <attribute>N</attribute>
@@ -470,7 +462,7 @@
       </attribute>
       <attribute>
         <code>PORT_NUMBER</code>
-        <attribute>3306</attribute>
+        <attribute>5432</attribute>
       </attribute>
       <attribute>
         <code>PRESERVE_RESERVED_WORD_CASE</code>
@@ -479,10 +471,6 @@
       <attribute>
         <code>QUOTE_ALL_FIELDS</code>
         <attribute>N</attribute>
-      </attribute>
-      <attribute>
-        <code>STREAM_RESULTS</code>
-        <attribute>Y</attribute>
       </attribute>
       <attribute>
         <code>SUPPORTS_BOOLEAN_DATA_TYPE</code>
@@ -505,16 +493,100 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Add sequence</from>
-      <to>Table output to mySQL</to>
+      <from>Remove types and id</from>
+      <to>Change name to city_name</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Remove types and id</from>
-      <to>Add sequence</to>
+      <from>Change name to city_name</from>
+      <to>Get system info</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Get system info</from>
+      <to>Table output to mySQL</to>
       <enabled>Y</enabled>
     </hop>
   </order>
+  <step>
+    <name>Change name to city_name</name>
+    <type>SelectValues</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>name</name>
+        <rename>city_name</rename>
+      </field>
+      <field>
+        <name>id</name>
+      </field>
+      <field>
+        <name>state</name>
+      </field>
+      <field>
+        <name>longitude</name>
+      </field>
+      <field>
+        <name>latitude</name>
+      </field>
+      <select_unspecified>N</select_unspecified>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>528</xloc>
+      <yloc>128</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Get system info</name>
+    <type>SystemInfo</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>created_at</name>
+        <type>system date (variable)</type>
+      </field>
+      <field>
+        <name>updated_at</name>
+        <type>system date (variable)</type>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>688</xloc>
+      <yloc>128</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
   <step>
     <name>Input from excel</name>
     <type>ExcelInput</type>
@@ -542,7 +614,12 @@
     <accept_field/>
     <accept_stepname/>
     <file>
-      <name>${Internal.Entry.Current.Directory}/data/city_data.xlsx</name>
+      <name>${Internal.Entry.Current.Directory}/data/city_data_id.xlsx</name>
+      <filemask/>
+      <exclude_filemask/>
+      <file_required>N</file_required>
+      <include_subfolders>N</include_subfolders>
+      <name/>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
@@ -700,13 +777,10 @@
     <fields>
       <select_unspecified>N</select_unspecified>
       <remove>
-        <name>type</name>
-      </remove>
-      <remove>
-        <name>id</name>
-      </remove>
-      <remove>
         <name>population</name>
+      </remove>
+      <remove>
+        <name>type</name>
       </remove>
       <remove>
         <name>density</name>
@@ -721,7 +795,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>400</xloc>
+      <xloc>368</xloc>
       <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>
@@ -738,8 +812,8 @@
       <schema_name/>
     </partitioning>
     <connection>cityfinder</connection>
-    <schema>CityFinder</schema>
-    <table>Cities</table>
+    <schema>public</schema>
+    <table>cities</table>
     <commit>1000</commit>
     <truncate>Y</truncate>
     <ignore_errors>N</ignore_errors>
@@ -765,42 +839,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>704</xloc>
-      <yloc>128</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Add sequence</name>
-    <type>Sequence</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <valuename>city_id</valuename>
-    <use_database>N</use_database>
-    <connection>cityfinder</connection>
-    <schema/>
-    <seqname>SEQ_</seqname>
-    <use_counter>Y</use_counter>
-    <counter_name/>
-    <start_at>1</start_at>
-    <increment_by>1</increment_by>
-    <max_value>999999999</max_value>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>560</xloc>
+      <xloc>832</xloc>
       <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>

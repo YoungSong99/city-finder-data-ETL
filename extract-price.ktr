@@ -436,14 +436,14 @@
   <notepads>
   </notepads>
   <connection>
-    <name>CityFinder</name>
-    <server>localhost</server>
+    <name>city_finder_production</name>
+    <server>dpg-cqt6ik0gph6c73atg0c0-a.oregon-postgres.render.com</server>
     <type>POSTGRESQL</type>
     <access>Native</access>
-    <database>CityFinder</database>
+    <database>cityfinder</database>
     <port>5432</port>
-    <username>young</username>
-    <password>Encrypted </password>
+    <username>cityfinder</username>
+    <password>Encrypted 653443786a4278426743624947325956d8fee5b83ce89db3840cab678b99aed8</password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
@@ -508,6 +508,76 @@
       <enabled>Y</enabled>
     </hop>
   </order>
+  <step>
+    <name>Add sequence</name>
+    <type>Sequence</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <valuename>id</valuename>
+    <use_database>N</use_database>
+    <connection/>
+    <schema/>
+    <seqname>SEQ_</seqname>
+    <use_counter>Y</use_counter>
+    <counter_name/>
+    <start_at>1</start_at>
+    <increment_by>1</increment_by>
+    <max_value>999999999</max_value>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>496</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Get system info</name>
+    <type>SystemInfo</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>created_at</name>
+        <type>system date (variable)</type>
+      </field>
+      <field>
+        <name>updated_at</name>
+        <type>system date (variable)</type>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>624</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
   <step>
     <name>Input from excel</name>
     <type>ExcelInput</type>
@@ -663,76 +733,6 @@
     </GUI>
   </step>
   <step>
-    <name>Add sequence</name>
-    <type>Sequence</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <valuename>id</valuename>
-    <use_database>N</use_database>
-    <connection/>
-    <schema/>
-    <seqname>SEQ_</seqname>
-    <use_counter>Y</use_counter>
-    <counter_name/>
-    <start_at>1</start_at>
-    <increment_by>1</increment_by>
-    <max_value>999999999</max_value>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>496</xloc>
-      <yloc>192</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Get system info</name>
-    <type>SystemInfo</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>created_at</name>
-        <type>system date (variable)</type>
-      </field>
-      <field>
-        <name>updated_at</name>
-        <type>system date (variable)</type>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>624</xloc>
-      <yloc>192</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
     <name>Table output to postgres</name>
     <type>TableOutput</type>
     <description/>
@@ -743,7 +743,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <connection>CityFinder</connection>
+    <connection>city_finder_production</connection>
     <schema>public</schema>
     <table>prices</table>
     <commit>1000</commit>
